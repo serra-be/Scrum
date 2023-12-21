@@ -2,6 +2,7 @@
 Aqui estão os projetos dos módulos, dicionário de termos (SCRUM e Kanban) e material dos encontros.<br> 
 ## Projetos dos módulos <br> 
 Projeto   | Descrição simplificada                                               | Duração
+--------- | ---------------------------------------------------------------------|---------------------
 Projeto 1 | Grooming de User Stories em Atividades Mensuráveis e uso do Kanban   | 5 sprints, 2 semanas
 Projeto 2 | "Done" e Throughput                                                  | 5 sprints, 2 semanas
 Projeto 3 | Criticidade e uso do Burndown                                        | 5 sprints, 2 semanas
