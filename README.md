@@ -1,9 +1,11 @@
 # Projetos, dicionário de termos e materiais dos encontros <br> 
 Aqui estão os projetos dos módulos, dicionário de termos (SCRUM e Kanban) e material dos encontros.<br> 
 ## Projetos dos módulos <br> 
-Projeto 1 - Grooming de User Stories em Atividades Mensuráveis
-Projeto 2 - Métricas de fluxo: 
-
+Projeto   | Descrição simplificada                                               | Duração
+Projeto 1 | Grooming de User Stories em Atividades Mensuráveis e uso do Kanban   | 5 sprints, 2 semanas
+Projeto 2 | "Done" e Throughput                                                  | 5 sprints, 2 semanas
+Projeto 3 | Criticidade e uso do Burndown                                        | 5 sprints, 2 semanas
+Projeto 4 | Delivery no Kanban e Lead Time                                       | 5 sprints, 2 semanas
 
 ## Dicionário de termos <br> 
 O dicionário a seguir traz definições e exemplos em ordem alfabética relativos ao Scrum e Kanban.<br> 
