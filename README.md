@@ -4,7 +4,7 @@ Aqui estão os projetos dos módulos, dicionário de termos (SCRUM e Kanban) e m
 Projeto   | Descrição simplificada                                               | Duração
 --------- | ---------------------------------------------------------------------|---------------------
 Projeto 1 | Grooming de User Stories em Atividades Mensuráveis e uso do Kanban   | 5 sprints, 2 semanas
-Projeto 2 | Conceito de "Done" e Throughp                                        | 5 sprints, 2 semanas
+Projeto 2 | Conceito de "Done" e uso Throughput e do WIP como métricas de fluxo de trabalho | 5 sprints, 2 semanas
 Projeto 3 | Criticidade e uso do Burndown                                        | 5 sprints, 2 semanas
 Projeto 4 | Delivery no Kanban e Lead Time                                       | 5 sprints, 2 semanas
 
