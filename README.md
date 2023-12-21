@@ -1,8 +1,8 @@
-# Learning backlog, dicionário de termos e material dos encontros<br> 
+# Learning backlog, dicionário de termos e material dos encontros <br> 
 Aqui estão os learning backlog, dicionário de termos (SCRUM e Kanban) e material dos encontros.<br> 
-## Learning Backlog<br> 
+## Learning Backlog <br> 
 (empty)<br> 
-## Dicionário de termos (Scrum e Kanban)<br> 
+## Dicionário de termos <br> 
 O dicionário a seguir traz definições e exemplos em ordem alfabética relativos ao Scrum e Kanban.<br> 
 
 **Agile Manifesto** <br>
