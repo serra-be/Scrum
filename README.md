@@ -1,6 +1,6 @@
-# Learning backlogs, dicionário de termos e materiais dos encontros <br> 
-Aqui estão os learning backlog, dicionário de termos (SCRUM e Kanban) e material dos encontros.<br> 
-## Learning Backlogs <br> 
+# Projetos, dicionário de termos e materiais dos encontros <br> 
+Aqui estão os projetos dos módulos, dicionário de termos (SCRUM e Kanban) e material dos encontros.<br> 
+## Projetos <br> 
 (empty)<br> 
 ## Dicionário de termos <br> 
 O dicionário a seguir traz definições e exemplos em ordem alfabética relativos ao Scrum e Kanban.<br> 
