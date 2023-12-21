@@ -1,9 +1,9 @@
-# Scrum
-Aqui estão os learning backlog, dicionário de termos (SCRUM e Kanban) e material dos encontros. 
-## Learning Backlog
-(empty)
-## Dicionário de termos (Scrum e Kanban)
-O dicionário a seguir traz definições e exemplos em ordem alfabética relativos ao Scrum e Kanban.
+# Learning backlog, dicionário de termos e material dos encontros<br> 
+Aqui estão os learning backlog, dicionário de termos (SCRUM e Kanban) e material dos encontros.<br> 
+## Learning Backlog<br> 
+(empty)<br> 
+## Dicionário de termos (Scrum e Kanban)<br> 
+O dicionário a seguir traz definições e exemplos em ordem alfabética relativos ao Scrum e Kanban.<br> 
 
 **Agile Manifesto** <br>
 Definição: Um documento que articula os valores e princípios fundamentais do desenvolvimento ágil de software, incluindo a valorização de indivíduos, colaboração e capacidade de resposta a mudanças.<br>
