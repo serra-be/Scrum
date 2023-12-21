@@ -1,7 +1,10 @@
 # Projetos, dicionário de termos e materiais dos encontros <br> 
 Aqui estão os projetos dos módulos, dicionário de termos (SCRUM e Kanban) e material dos encontros.<br> 
 ## Projetos dos módulos <br> 
-(empty)<br> 
+Projeto 1 - Grooming de User Stories em Atividades Mensuráveis
+Projeto 2 - Métricas de fluxo: 
+
+
 ## Dicionário de termos <br> 
 O dicionário a seguir traz definições e exemplos em ordem alfabética relativos ao Scrum e Kanban.<br> 
 
@@ -63,7 +66,7 @@ Exemplo: Em uma fábrica de eletrônicos, o lead time para a montagem de um novo
 
 **Métrica de Fluxo de Trabalho** <br>
 Definição: Ferramentas de avaliação usadas para medir a eficiência, qualidade e velocidade do fluxo de trabalho em um projeto.<br>
-Exemplo: Uma empresa de desenvolvimento de software monitora o número de commits de código por semana como uma métrica de fluxo de trabalho para avaliar a produtividade da equipe de desenvolvimento.<br>
+Exemplo: Uma empresa de desenvolvimento de software monitora o número de commits de código por semana como uma métrica de fluxo de trabalho para avaliar a produtividade da equipe de desenvolvimento. Um exemplo de métrica de fluxo em um projeto ágil é o Lead Time, que mede o tempo que leva desde a concepção de uma tarefa até sua conclusão. Outro exemplo é o WIP (Work In Progress), que indica o número de tarefas que estão sendo trabalhadas em um dado momento. Monitorar estas métricas ajuda a equipe a identificar atrasos e sobrecargas no processo.<br>
 
 **Métrica de Qualidade** <br>
 Definição: Ferramentas ou indicadores usados para avaliar a qualidade dos resultados de um projeto.<br>
@@ -120,6 +123,10 @@ Exemplo: No desenvolvimento de um novo sistema de reserva de hotéis online, os 
 **Task** <br>
 Definição: Tarefas específicas que precisam ser realizadas para completar uma user story ou outro componente maior de um projeto.<br>
 Exemplo: Relacionado à user story anterior, uma tarefa poderia ser "Desenvolver a interface do usuário para adicionar categorias de despesas".<br>
+
+**Throughput** <br>
+Definição: Throughput, no contexto do gerenciamento ágil de projetos, refere-se à quantidade de trabalho ou tarefas que uma equipe consegue completar em um determinado período de tempo. É uma medida de produtividade que ajuda a avaliar a eficiência da equipe em entregar valor. <br>
+Exemplo: Em um projeto de desenvolvimento de software, se uma equipe completa em média 10 user stories por sprint, o throughput desse sprint é de 10 user stories. Monitorar o throughput ao longo do tempo pode ajudar a equipe a entender sua capacidade de trabalho e a planejar sprints futuros com maior precisão. <br>
 
 **User Story** <br>
 Definição: Em desenvolvimento ágil, é uma descrição informal e geral de um recurso de software escrita do ponto de vista do usuário final, ajudando a criar uma visão simplificada dos requisitos.<br>
