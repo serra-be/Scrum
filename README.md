@@ -134,4 +134,4 @@ Definição: No Kanban, são limites estabelecidos para o número de tarefas em 
 Exemplo: No quadro Kanban de uma equipe de design gráfico, eles estabelecem um limite de WIP de três tarefas na coluna "Em Progresso" para garantir que os membros da equipe não fiquem sobrecarregados e possam se concentrar em completar cada tarefa com qualidade antes de passar para a próxima.<br>
 
 ## Material dos encontros
-(empty)
+Será adicionado após nosso 1o encontro, dia 22/12/23.
