@@ -2,7 +2,7 @@
 Aqui estão os projetos dos módulos, dicionário de termos (SCRUM e Kanban) e material dos encontros.<br> 
 ## Projetos dos módulos <br> 
 Projeto| Descrição simplificada                  | Duração              | Objetivo
------- | ----------------------------------------|----------------------|----------------------------------|
+------ | ----------------------------------------|------------------------|----------------------------------|
 Projeto <br> 1 | Grooming de User Stories e uso do Kanban     | 5 sprints,<br> 2 semanas | Fazer o grooming das user stories em atividades mensuráveis e utilizar o Kanban para fluxo contínuo e organizado do trabalho
 Projeto <br> 2 | Ponto de comprometimento, Throughput e WIP   | 5 sprints,<br> 2 semanas | Estabelecer um ponto de comprometimento, limitar o WIP e utilizar o troughput e o WIP como métricas de fluxo de trabalho
 Projeto <br> 3 | Criticidade e uso do Burndown                | 5 sprints,<br> 2 semanas | Listar a criticidade das atividades e usar o Burdown Chart para identificar adesão ou atrasos ao cronograma planejado do projeto
