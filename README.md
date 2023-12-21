@@ -132,3 +132,5 @@ Exemplo: Uma equipe de desenvolvimento de software monitora sua velocidade ao lo
 WIP (Work in Progress) Limits
 Definição: No Kanban, são limites estabelecidos para o número de tarefas em diferentes estágios de trabalho, para evitar sobrecarga e garantir um fluxo contínuo.
 Exemplo: No quadro Kanban de uma equipe de design gráfico, eles estabelecem um limite de WIP de três tarefas na coluna "Em Progresso" para garantir que os membros da equipe não fiquem sobrecarregados e possam se concentrar em completar cada tarefa com qualidade antes de passar para a próxima.
+
+## Material dos encontros
